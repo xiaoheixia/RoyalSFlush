@@ -78,7 +78,7 @@ DATABASES = {
     'default': {
         # Add 'postgresql_psycopg2', 'mysql', 'sqlite3' or 'oracle'.
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'teg_bopms',
+        'NAME': 'RoyalSFlush',
         'USER': 'root',
         'PASSWORD': 'root',
         'HOST': '127.0.0.1',
