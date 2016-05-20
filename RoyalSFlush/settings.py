@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/1.8/ref/settings/
 """
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
+# coding=utf-8
 import os
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -24,9 +25,9 @@ SECRET_KEY = '4b-3kdjw*)9+om+38pu%98!a@rvu$v7(k7#u7(txk!#9(n^6^#'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
+#DEBUG = False
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = '*'
 
 # Application definition
 
