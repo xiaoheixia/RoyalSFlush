@@ -1,0 +1,252 @@
+DEBUG [2016-05-23 14:43:06] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 11480 6120 
+ 	 (0.001) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 14:43:06] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 11480 6120 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 14:44:30] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13148 7984 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 14:44:30] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13148 7984 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 14:45:57] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 3232 12404 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 14:45:57] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 3232 12404 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 16:31:41] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 11348 13436 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 16:31:41] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 11348 13436 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 16:31:55] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 4668 13632 
+ 	 (0.001) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 16:31:55] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 4668 13632 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 16:33:40] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 14064 4680 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 16:33:40] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 14064 4680 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 16:35:35] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 14232 11956 
+ 	 (0.001) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 16:35:35] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 14232 11956 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 16:39:21] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 12160 13364 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 16:39:21] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 12160 13364 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 16:44:33] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 11044 9680 
+ 	 (0.001) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 16:44:33] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 11044 9680 
+ 	 (0.001) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 16:48:06] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 10684 5604 
+ 	 (0.001) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 16:48:06] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 10684 5604 
+ 	 (0.001) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 16:48:16] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 9828 11468 
+ 	 (0.001) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 16:48:16] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 9828 11468 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 16:48:54] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 820 11664 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 16:48:54] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 820 11664 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 16:49:13] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 8656 12836 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 16:49:13] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 8656 12836 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 16:49:42] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 7992 13300 
+ 	 (0.001) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 16:49:42] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 7992 13300 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 16:49:49] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13048 14316 
+ 	 (0.001) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 16:49:49] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13048 14316 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 16:51:11] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 8288 14332 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 16:51:11] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 8288 14332 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 16:51:44] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 14004 14076 
+ 	 (0.001) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 16:51:44] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 14004 14076 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 16:51:58] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13780 12736 
+ 	 (0.001) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 16:51:58] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13780 12736 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 16:54:13] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 8420 5068 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 16:54:13] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 8420 5068 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 16:54:19] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 9036 11304 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 16:54:19] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 9036 11304 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 16:55:54] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13628 14236 
+ 	 (0.001) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 16:55:54] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13628 14236 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 16:58:40] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 9056 8880 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 16:58:40] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 9056 8880 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 16:59:09] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 11416 12944 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 16:59:09] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 11416 12944 
+ 	 (0.001) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 16:59:22] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 12600 4556 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 16:59:22] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 12600 4556 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 17:02:59] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 9200 13740 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 17:02:59] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 9200 13740 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 17:04:53] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 1384 12692 
+ 	 (0.001) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 17:04:53] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 1384 12692 
+ 	 (0.001) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 17:05:39] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13804 11664 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 17:05:39] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13804 11664 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 17:09:44] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 12156 12136 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 17:09:44] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 12156 12136 
+ 	 (0.001) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 17:09:53] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13584 11676 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 17:09:53] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13584 11676 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 17:09:57] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13928 14164 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 17:09:57] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13928 14164 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 17:10:25] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13308 13472 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 17:10:25] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13308 13472 
+ 	 (0.001) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 17:21:36] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 4872 4680 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 17:21:36] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 4872 4680 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 17:23:22] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 14040 10740 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 17:23:22] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 14040 10740 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 17:47:44] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 820 13492 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 17:47:44] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 820 13492 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 17:49:20] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13736 13728 
+ 	 (0.001) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 17:49:20] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13736 13728 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 17:50:01] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13444 12912 
+ 	 (0.001) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 17:50:01] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13444 12912 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 17:52:52] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 11292 2140 
+ 	 (0.001) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 17:52:52] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 11292 2140 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 17:57:03] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 11648 5104 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 17:57:03] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 11648 5104 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 17:57:43] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13008 11524 
+ 	 (0.001) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 17:57:43] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13008 11524 
+ 	 (0.001) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 17:58:07] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 11372 12600 
+ 	 (0.001) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 17:58:07] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 11372 12600 
+ 	 (0.001) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 17:58:52] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 7776 13320 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 17:58:52] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 7776 13320 
+ 	 (0.001) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+
+DEBUG [2016-05-23 17:59:23] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13236 10620 
+ 	 (0.000) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None 
+
+DEBUG [2016-05-23 17:59:23] c:\Python27\lib\site-packages\django\db\backends\utils.py 89 execute 13236 10620 
+ 	 (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=() 
+

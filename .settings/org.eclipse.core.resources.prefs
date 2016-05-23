@@ -1,2 +1,8 @@
 eclipse.preferences.version=1
+encoding//RoyalSFlush/settings.py=utf-8
+encoding//commom/dbconn_dev.py=utf-8
+encoding//commom/dbconn_prd.py=utf-8
+encoding//commom/dbconn_stg.py=utf-8
+encoding//commom/log.py=utf-8
+encoding//commom/request_middlewares.py=utf-8
 encoding//dashboard/views.py=utf-8
