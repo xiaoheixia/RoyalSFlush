@@ -4,8 +4,6 @@ import os
 # 基础信息设置
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 APP_CODE = 'RoyalSFlush'
-DEBUG = True
-TEMPLATE_DEBUG = DEBUG
 SECRET_KEY = '4b-3kdjw*)9+om+38pu%98!a@rvu$v7(k7#u7(txk!#9(n^6^#'
 ALLOWED_HOSTS = ['*']
 
@@ -18,11 +16,17 @@ WSGI_ENV = os.environ.get("DJANGO_CONF_MODULE", "DEV")
 RUN_MODE = 'DEV'
 if WSGI_ENV.endswith("PRD"):
     RUN_MODE = "PRD"
+    DEBUG = False
 elif WSGI_ENV.endswith("STG"):
     RUN_MODE = "STG"
+    DEBUG = False
 else:
     RUN_MODE = "DEV"
-    
+    DEBUG = True
+
+#DEBUG = False
+TEMPLATE_DEBUG = DEBUG
+
 # 项目包含app设置
 INSTALLED_APPS = (
     'django.contrib.admin',
