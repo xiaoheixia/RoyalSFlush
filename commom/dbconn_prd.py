@@ -9,10 +9,10 @@ class TdeToolsDB:
     def __init__(self):
         try:
             port = 3306
-            host = '10.209.7.15'
+            host = '127.0.0.1'
             #logger.info(port)
             #logger.info(host)
-            self.Conn = MySQLdb.connect(db='db_tde_tools', user='rtrs', passwd='rtrs', port=port, charset='utf8', host=host)
+            self.Conn = MySQLdb.connect(db='test', user='test', passwd='test', port=port, charset='utf8', host=host)
             #cursor=self.Conn.cursor(); 
             self.Cursor = self.Conn.cursor()
         except Exception, e:
